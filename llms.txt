@@ -1,0 +1,72 @@
+# VMais Vacinas
+
+> Clínica especializada em vacinação humana em Fortaleza (CE), no bairro de Fátima. Vacina na clínica, em casa (VMais Domicílio), em empresas (VMais Empresarial / Proteção Empresarial) e em condomínios (VMais Condomínio). Tem também o ambulatório Aplica+ para medicamentos injetáveis com receita.
+
+## Dados da clínica
+- Endereço: Rua Dom Sebastião Leme, 1091, Fátima, Fortaleza (CE), CEP 60050-160
+- Horário: segunda a sexta, 8h às 18h; sábado, 8h às 12h; domingo fechado
+- WhatsApp e telefone: (85) 99101-9162 · E-mail: vmais@vmaisvacinas.com.br
+- Diretor técnico e médico: Dr. Rodrigo Ponte Viana, CRM-CE 19434
+- Fundadora e enfermeira: Dra. Vânia Lemos, COREN-CE 157.129
+- Nota no Google: 5,0 (as avaliações podem ser vistas no perfil da clínica no Google)
+- Rede de frio entre +2 °C e +8 °C, com gerador de energia; doses transportadas em caixa térmica com controle de temperatura
+- Recepções separadas para crianças (tema fundo do mar) e adultos; espaço acessível
+- Ciclos VMais: pacotes com as vacinas do bebê dos 2 aos 18 meses (Semear, Cultivar e Florescer), com doses reservadas e preço mantido
+- As indicações seguem os calendários da SBIm e do Ministério da Saúde; a enfermagem confirma cada indicação no atendimento
+
+## Vacinas
+- [Nirsevimabe para Bebês contra o VSR](https://www.vmaisvacinas.com.br/vacinas/nirsevimabe/): Nirsevimabe (Beyfortus) em Fortaleza: anticorpo em dose única que protege o bebê contra a bronquiolite pelo VSR na primeira temporada. VMais Vacinas, na clínica ou em casa.
+- [Vacina Hexavalente](https://www.vmaisvacinas.com.br/vacinas/hexavalente/): Protege contra difteria, tétano, coqueluche, poliomielite, Haemophilus influenzae tipo b e hepatite B. Por ser acelular, costuma causar menos febre e dor d
+- [Vacina Pentavalente](https://www.vmaisvacinas.com.br/vacinas/pentavalente/): Protege contra difteria, tétano, coqueluche, poliomielite e Haemophilus influenzae tipo b. É usada no esquema do bebê e no reforço da primeira infância.
+- [Vacina Pneumocócica 13](https://www.vmaisvacinas.com.br/vacinas/pneumococica-13/): Vacina conjugada contra 13 sorotipos de pneumococo, a bactéria que causa pneumonia, meningite e otite. Hoje também existem versões mais amplas, e a equipe 
+- [Vacina Pneumocócica 15](https://www.vmaisvacinas.com.br/vacinas/pneumococica-15/): Vacina conjugada contra 15 sorotipos de pneumococo, indicada para bebês a partir de 6 semanas de vida e para adultos. Protege contra pneumonia, meningite e
+- [Vacina Pneumocócica 20](https://www.vmaisvacinas.com.br/vacinas/pneumococica-20/): A vacina conjugada 20-valente protege contra 20 tipos de pneumococo, a bactéria que mais causa pneumonia, meningite e infecção no sangue. Para adultos, a p
+- [Vacina Pneumocócica 23](https://www.vmaisvacinas.com.br/vacinas/pneumococica-23/): A vacina polissacarídica 23-valente amplia a proteção contra o pneumococo em pessoas com 60 anos ou mais e em grupos de risco. Ela é usada junto com uma va
+- [Vacina Tetraviral](https://www.vmaisvacinas.com.br/vacinas/tetraviral/): A tetraviral junta a tríplice viral e a vacina da catapora. Protege contra sarampo, caxumba, rubéola e varicela, com menos picadas no calendário da criança
+- [Vacina Tríplice Viral](https://www.vmaisvacinas.com.br/vacinas/triplice-viral/): O sarampo voltou a circular no Brasil nos últimos anos. A tríplice viral protege contra ele e contra a caxumba e a rubéola, com duas doses ao longo da vida
+- [Vacina da Dengue](https://www.vmaisvacinas.com.br/vacinas/dengue/): A vacina da dengue protege contra os quatro tipos do vírus e reduz muito o risco de internação. Quem começa em novembro completa as duas doses em fevereiro
+- [Vacina da Febre Amarela](https://www.vmaisvacinas.com.br/vacinas/febre-amarela/): A vacina protege contra a febre amarela, doença transmitida por mosquitos em áreas de mata e que pode ser grave. Faz parte do calendário infantil e é exigi
+- [Vacina da Febre Tifoide](https://www.vmaisvacinas.com.br/vacinas/febre-tifoide/): A vacina é indicada para quem vai a regiões onde a doença é comum, principalmente onde o saneamento é precário. É uma dose aplicada antes da viagem.
+- [Vacina da Gripe](https://www.vmaisvacinas.com.br/vacinas/gripe/): O vírus da gripe muda, e a vacina é atualizada todo ano. Para quem tem 60 anos ou mais, existe a versão de alta dose, que gera uma resposta maior.
+- [Vacina da Hepatite A](https://www.vmaisvacinas.com.br/vacinas/hepatite-a/): Vacina hepatite A em Fortaleza: 2 doses a partir de 12 meses, para crianças, adultos e viajantes. Vaqta (MSD) na VMais Vacinas, em Fátima, em casa ou na empresa.
+- [Vacina da Hepatite A e B](https://www.vmaisvacinas.com.br/vacinas/hepatite-a-b/): Vacina combinada hepatite A e B em Fortaleza: Twinrix (GSK), a partir de 1 ano, 3 doses. Na VMais Vacinas, em Fátima, em casa ou na sua empresa.
+- [Vacina da Meningite ACWY](https://www.vmaisvacinas.com.br/vacinas/meningite-acwy/): A vacina meningocócica ACWY protege contra quatro tipos de meningococo. Na rede pública, os bebês recebem a vacina contra o tipo C. Nas clínicas, a proteçã
+- [Vacina da Meningite B](https://www.vmaisvacinas.com.br/vacinas/meningite-b/): A vacina meningocócica B protege contra o tipo de meningite bacteriana que mais aparece em bebês e adolescentes no Brasil e que não é coberto pelas vacinas
+- [Vacina da Tríplice Bacteriana (dTpa)](https://www.vmaisvacinas.com.br/vacinas/dtpa/): A tríplice bacteriana acelular do tipo adulto mantém a proteção contra três doenças graves. Na gestação, ela protege o bebê contra a coqueluche nos primeir
+- [Vacina da Varicela (Catapora)](https://www.vmaisvacinas.com.br/vacinas/varicela/): A vacina protege contra a catapora, que pode ter complicações em crianças e ser mais grave em adolescentes e adultos. São duas doses, para crianças e para 
+- [Vacina do HPV](https://www.vmaisvacinas.com.br/vacinas/hpv/): A vacina nonavalente protege contra os tipos de HPV responsáveis pela maioria dos cânceres de colo do útero, ânus e garganta, e contra as verrugas genitais
+- [Vacina do Herpes Zóster](https://www.vmaisvacinas.com.br/vacinas/herpes-zoster/): A vacina recombinante previne o herpes zóster (cobreiro) e a dor que pode durar meses depois dele. Ela não está disponível nos postos de saúde para essa fa
+- [Vacina do Rotavírus](https://www.vmaisvacinas.com.br/vacinas/rotavirus/): A vacina oral pentavalente protege contra cinco tipos de rotavírus, principal causa de diarreia grave e desidratação nos primeiros anos de vida. Cada dose 
+- [Vacina do VSR](https://www.vmaisvacinas.com.br/vacinas/vsr/): O vírus sincicial respiratório é conhecido por causar bronquiolite em bebês, mas também é perigoso para quem tem 60 anos ou mais. A vacina é dose única.
+
+## Serviços e páginas institucionais
+- [Ambulatório Aplica+ | VMais Vacinas Fortaleza](https://www.vmaisvacinas.com.br/ambulatorio/): Ambulatório da VMais Vacinas em Fortaleza: aplicação de injetáveis, furo de orelha humanizado, curativo, glicemia, pressão e retirada de pontos.
+- [Blog VMais | Vacinas explicadas pela enfermagem](https://www.vmaisvacinas.com.br/blog/): Blog da VMais Vacinas: textos curtos sobre vacinas, dengue, gripe, herpes zóster, cadeia de frio e campanhas nas empresas.
+- [Calendários de vacinação SBIm e Ministério da Saúde | VMais](https://www.vmaisvacinas.com.br/calendarios/): Calendários de vacinação oficiais da SBIm e do Ministério da Saúde, por idade, com acesso direto aos PDFs.
+- [Ciclos VMais | Vacinas do bebê em pacotes | Fortaleza](https://www.vmaisvacinas.com.br/ciclos/): Ciclos VMais: as vacinas do bebê dos 2 aos 18 meses organizadas em Semear, Cultivar e Florescer, com doses garantidas e valor fechado.
+- [VMais Condomínio | Vacinação no seu prédio em Fortaleza](https://www.vmaisvacinas.com.br/condominio/): VMais Condomínio: campanha de vacinação no salão do seu prédio em Fortaleza, com horários marcados para os moradores e doses entre +2 °C e +8 °C.
+- [VMais Domicílio | Vacinação em casa em Fortaleza](https://www.vmaisvacinas.com.br/domiciliar/): Vacinação em casa em Fortaleza com a enfermagem da VMais e as doses na temperatura certa.
+- [VMais Empresarial | Vacinação de empresas em Fortaleza](https://www.vmaisvacinas.com.br/empresarial/): Vacinação de empresas em Fortaleza: campanhas de dengue, gripe e riscos biológicos para RH, SESMT e CIPA.
+- [VMais Vacinas | Clínica de vacinas em Fortaleza](https://www.vmaisvacinas.com.br/): Clínica de vacinas em Fortaleza. Vacinação na clínica em Fátima, em casa e na sua empresa, com rede de frio monitorada e equipe especializada.
+- [Política de cookies | VMais Vacinas](https://www.vmaisvacinas.com.br/politica-de-cookies/): Política de Cookies da VMais Vacinas: quais cookies o site pode usar, para quê e como gerenciar, conforme a LGPD e o Marco Civil da Internet.
+- [Política de privacidade | VMais Vacinas](https://www.vmaisvacinas.com.br/politica-de-privacidade/): Política de Privacidade de Dados da VMais Vacinas: como coletamos, usamos e protegemos os dados pessoais e de saúde, conforme a LGPD.
+- [Sobre a VMais Vacinas | Clínica em Fátima, Fortaleza](https://www.vmaisvacinas.com.br/sobre/): Conheça a VMais Vacinas: a clínica em Fátima, Fortaleza, a cadeia de frio de +2 °C a +8 °C com geradores e os responsáveis técnicos.
+- [Todas as vacinas | VMais Vacinas Fortaleza](https://www.vmaisvacinas.com.br/vacinas/): Todas as vacinas da VMais Vacinas em Fortaleza: busque por nome ou por fase da vida e veja para quem cada vacina é indicada.
+
+## Blog
+- [Cerca de 1,8 mil cidades brasileiras estão em alerta ou risco por causa do Aedes aegypti | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/aedes-cidades-alerta/): Quase metade dos municípios que fizeram o levantamento do mosquito está em alerta ou risco. No Nordeste, o criadouro mais comum é a água guardada em casa.
+- [Vacina no bebê: como deixar o momento mais tranquilo](https://www.vmaisvacinas.com.br/blog/bebe-tranquilo/): O choro faz parte, mas dá para ajudar. O que fazer antes, durante e depois da vacina.
+- [Por que a temperatura da vacina importa tanto](https://www.vmaisvacinas.com.br/blog/cadeia-de-frio/): O que acontece entre a fábrica e o seu braço, e por que você não consegue ver se uma vacina estragou.
+- [Campanha de vacinação na empresa: o checklist do RH](https://www.vmaisvacinas.com.br/blog/campanha-rh/): Cinco passos para planejar, divulgar e registrar uma campanha com adesão real da equipe.
+- [Ceará passa de 15 mil casos de dengue em 2026, quase quatro vezes mais que em 2025 | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/dengue-ceara-2026/): Os casos explodiram no meio do ano e já houve 27 mortes. Entenda o que puxou a alta e como chegar protegido à próxima quadra chuvosa.
+- [A conta da chuva: por que começar a vacina da dengue em novembro](https://www.vmaisvacinas.com.br/blog/dengue-novembro/): Duas doses, três meses entre elas. Quem começa em novembro termina o esquema antes do pico da quadra chuvosa.
+- [Por que a vacina da gripe é todo ano](https://www.vmaisvacinas.com.br/blog/gripe-todo-ano/): O vírus muda, a vacina acompanha. E a proteção da dose do ano passado não dura para sempre.
+- [Vacina contra herpes zóster está associada a menos doenças do coração, mostra estudo na Nature Medicine | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/herpes-zoster-coracao/): Pesquisadores compararam idosos que tomaram a vacina antiga e a recombinante. Quem recebeu a recombinante teve menos infarto, insuficiência cardíaca e AVC isquêmico.
+- [Herpes zóster cresce no Brasil: 33 mil atendimentos só no primeiro semestre de 2026 | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/herpes-zoster-cresce/): Os dados são do Ministério da Saúde. A vacina ainda não está no SUS para a população em geral, e um projeto aprovado no Senado quer mudar isso.
+- [Herpes zóster depois dos 50: o que é e como prevenir](https://www.vmaisvacinas.com.br/blog/herpes-zoster/): Quem teve catapora carrega o vírus. Entenda por que o risco aumenta com a idade e o que a vacina faz.
+- [Vacina contra HPV reduz em quase 78% as consultas por lesões pré-cancerígenas em adolescentes | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/hpv-lesoes-adolescentes/): Estudo com dados do SUS mostra a queda entre jovens de 15 a 19 anos, a primeira geração que recebeu a vacina ainda na infância.
+- [Programa de vacinação na empresa: por que e como implementar | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/programa-vacinacao-empresa/): Uma lei de 2026 pede que o empregador informe os trabalhadores sobre as campanhas oficiais. Veja como ir além e montar um programa de vacinação.
+- [Vacinação nas empresas ajuda a ampliar a imunização no Brasil | Blog VMais Vacinas](https://www.vmaisvacinas.com.br/blog/vacinacao-nas-empresas/): Com a cobertura vacinal abaixo da meta, levar a vacina até o local de trabalho virou uma forma de alcançar quem não vai ao posto.
+
+## Observação
+Conteúdo informativo. Preços e disponibilidade mudam; confirme pelo WhatsApp (85) 99101-9162.
