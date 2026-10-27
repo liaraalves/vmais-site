@@ -422,6 +422,7 @@ body{margin:0}
 .vm .combo.cx h3{margin:0;font-size:1.12rem;color:var(--musgo,#012203)}
 .vm .combo.cx p{margin:0;color:var(--ink-2,#4a574b);font-size:.93rem;line-height:1.5}
 .vm .combo.cx .cx-mais{margin-top:auto;padding-top:10px;font-weight:700;font-size:.9rem;color:var(--folha,#0b6b14)}
+@media (min-width:901px){.vm .combo.cx:has(> .cx-card:nth-child(2):last-child){grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:900px){.vm .combo.cx{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:600px){.vm .combo.cx{grid-template-columns:1fr}.vm .combo.cx .cx-card{flex-direction:row}.vm .combo.cx .cx-art{height:auto;width:120px;flex:none;border-bottom:0;border-right:1px solid var(--line,rgba(1,34,3,.08));padding:14px 0}.vm .combo.cx .cx-art img{height:110px}.vm .combo.cx .cx-art::after{bottom:8px;width:70px}.vm .combo.cx .cx-vm{width:64px;height:104px}.vm .combo.cx .cx-vm b{font-size:.6rem;padding:7px 6px 12px}.vm .combo.cx .cx-vm i{font-size:.7rem;padding:7px 6px 0}.vm .combo.cx .cx-ciclos{grid-auto-flow:row;gap:4px}.vm .combo.cx .cx-ciclos img{height:44px;width:44px}.vm .combo.cx .cx-txt{padding:14px 16px}}
 /* rodapé das páginas de vacina igual ao do resto do site */
