@@ -23,7 +23,7 @@ const PERFIS={
   bebe:{t:"Do nascimento aos 2 anos",v:[["Hexavalente acelular"],["Pneumocócica 20","pneumococica-20"],["Meningite B","meningite-b"],["Meningite ACWY","meningite-acwy"],["Rotavírus"],["Gripe","gripe"]],cal:["Criança","calend-sbim-crianca.pdf"],extra:'Veja abaixo os <a href="#ciclos" style="color:var(--ouro-claro);font-weight:700">Ciclos VMais</a>, com o calendário do bebê organizado em pacotes.'},
   crianca:{t:"Dos 2 aos 9 anos",v:[["Gripe (todo ano)","gripe"],["Dengue (a partir de 4 anos)","dengue"],["Reforços de tríplice bacteriana e ACWY","meningite-acwy"],["HPV (a partir de 9 anos)","hpv"]],cal:["Criança","calend-sbim-crianca.pdf"]},
   adolescente:{t:"Dos 10 aos 19 anos",v:[["HPV","hpv"],["Meningite ACWY","meningite-acwy"],["Meningite B","meningite-b"],["dTpa (reforço)"],["Dengue","dengue"],["Gripe","gripe"]],cal:["Adolescente","calend-sbim-adolescente.pdf"]},
-  adulto:{t:"Dos 20 aos 59 anos",v:[["Gripe (todo ano)","gripe"],["dTpa a cada 10 anos"],["Hepatite B"],["HPV","hpv"],["Dengue (até 60 anos)","dengue"],["Herpes zóster (a partir de 50)","herpes-zoster"]],cal:["Adulto","calend-sbim-adulto.pdf"]},
+  adulto:{t:"Dos 20 aos 59 anos",v:[["Gripe (todo ano)","gripe"],["dTpa a cada 10 anos"],["Hepatite B"],["HPV (até 45 anos)","hpv"],["Dengue (até 60 anos)","dengue"],["Herpes zóster (a partir de 50)","herpes-zoster"]],cal:["Adulto","calend-sbim-adulto.pdf"]},
   idoso:{t:"A partir dos 60 anos",v:[["Gripe (todo ano)","gripe"],["Pneumocócica 20","pneumococica-20"],["Herpes zóster","herpes-zoster"],["VSR","vsr"],["dTpa"]],cal:["Idoso","calend-sbim-idoso.pdf"]},
   gestante:{t:"Durante a gestação",v:[["dTpa"],["Gripe","gripe"],["Hepatite B"],["VSR (Abrysvo), de 24 a 36 semanas","vsr"]],cal:["Gestante","calend-sbim-gestante.pdf"]},
   empresa:{t:"Para a sua equipe",v:[["Gripe","gripe"],["Dengue","dengue"],["Hepatite B"],["dT (tétano e difteria)"]],cal:["Ocupacional","calend-sbim-ocupacional.pdf"],emp:true}
@@ -44,8 +44,8 @@ $$('.pill').forEach(b=>b.addEventListener('click',()=>{
 const VAC=[
   ["Herpes zóster","50 anos ou mais","Previne o cobreiro e a dor que pode ficar depois dele.",["2 doses","Intervalo de 2 meses","Pode tomar quem já teve zóster"],"herpes-zoster"],
   ["Dengue","4 a 60 anos","Duas doses com três meses entre elas.",["2 doses","Intervalo de 3 meses","Comece em novembro"],"dengue"],
-  ["HPV","A partir de 9 anos","Protege contra os tipos de HPV que mais causam câncer.",["2 doses até 14 anos","3 doses a partir de 15"],"hpv"],
-  ["Meningite B","A partir de 2 meses","Protege contra o meningococo B, que não está no SUS.",["Esquema conforme a idade","Pode ser feita com outras vacinas"],"meningite-b"],
+  ["HPV","De 9 a 45 anos","Protege contra os tipos de HPV que mais causam câncer.",["2 doses até 14 anos","3 doses a partir de 15"],"hpv"],
+  ["Meningite B","De 2 meses a 50 anos","Protege contra o meningococo B, que não está no SUS.",["Esquema conforme a idade","Pode ser feita com outras vacinas"],"meningite-b"],
   ["Meningite ACWY","Bebês a adultos","Protege contra quatro tipos de meningococo.",["Esquema conforme a idade","Reforços na infância e adolescência"],"meningite-acwy"],
   ["Pneumocócica 20","Crianças e 60+","Protege contra pneumonia e outras infecções por pneumococo.",["Dose única para adultos","Crianças: 3 doses e reforço"],"pneumococica-20"],
   ["VSR","Adultos, 60+ e gestantes","Previne a doença respiratória pelo vírus sincicial respiratório, inclusive a grave.",["Dose única","Gestantes: Abrysvo, de 24 a 36 semanas"],"vsr"],
