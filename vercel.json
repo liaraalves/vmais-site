@@ -1,4 +1,8 @@
 {
+  "redirects": [
+    { "source": "/vacinas/febre-tifoide.html", "destination": "/vacinas.html", "permanent": true },
+    { "source": "/vacinas/febre-tifoide", "destination": "/vacinas.html", "permanent": true }
+  ],
   "headers": [
     { "source": "/(.*)", "headers": [ { "key": "X-Robots-Tag", "value": "noindex, nofollow" } ] }
   ]
