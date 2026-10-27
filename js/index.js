@@ -25,7 +25,7 @@ const PERFIS={
   adolescente:{t:"Dos 10 aos 19 anos",v:[["HPV","hpv"],["Meningite ACWY","meningite-acwy"],["Meningite B","meningite-b"],["dTpa (reforço)"],["Dengue","dengue"],["Gripe","gripe"]],cal:["Adolescente","calend-sbim-adolescente.pdf"]},
   adulto:{t:"Dos 20 aos 59 anos",v:[["Gripe (todo ano)","gripe"],["dTpa a cada 10 anos"],["Hepatite B"],["HPV","hpv"],["Dengue (até 60 anos)","dengue"],["Herpes zóster (a partir de 50)","herpes-zoster"]],cal:["Adulto","calend-sbim-adulto.pdf"]},
   idoso:{t:"A partir dos 60 anos",v:[["Gripe (todo ano)","gripe"],["Pneumocócica 20","pneumococica-20"],["Herpes zóster","herpes-zoster"],["VSR","vsr"],["dTpa"]],cal:["Idoso","calend-sbim-idoso.pdf"]},
-  gestante:{t:"Durante a gestação",v:[["dTpa"],["Gripe","gripe"],["Hepatite B"],["VSR, na idade gestacional indicada","vsr"]],cal:["Gestante","calend-sbim-gestante.pdf"]},
+  gestante:{t:"Durante a gestação",v:[["dTpa"],["Gripe","gripe"],["Hepatite B"],["VSR (Abrysvo), de 24 a 36 semanas","vsr"]],cal:["Gestante","calend-sbim-gestante.pdf"]},
   empresa:{t:"Para a sua equipe",v:[["Gripe","gripe"],["Dengue","dengue"],["Hepatite B"],["dT (tétano e difteria)"]],cal:["Ocupacional","calend-sbim-ocupacional.pdf"],emp:true}
 };
 $$('.pill').forEach(b=>b.addEventListener('click',()=>{
@@ -48,7 +48,7 @@ const VAC=[
   ["Meningite B","A partir de 2 meses","Protege contra o meningococo B, que não está no SUS.",["Esquema conforme a idade","Pode ser feita com outras vacinas"],"meningite-b"],
   ["Meningite ACWY","Bebês a adultos","Protege contra quatro tipos de meningococo.",["Esquema conforme a idade","Reforços na infância e adolescência"],"meningite-acwy"],
   ["Pneumocócica 20","Crianças e 60+","Protege contra pneumonia e outras infecções por pneumococo.",["Dose única para adultos","Crianças: 3 doses e reforço"],"pneumococica-20"],
-  ["VSR","60+ e gestantes","Previne doença grave pelo vírus sincicial respiratório.",["Dose única","Gestantes: Abrysvo"],"vsr"],
+  ["VSR","Adultos, 60+ e gestantes","Previne a doença respiratória pelo vírus sincicial respiratório, inclusive a grave.",["Dose única","Gestantes: Abrysvo, de 24 a 36 semanas"],"vsr"],
   ["Gripe","A partir de 6 meses","A vacina muda todo ano para acompanhar o vírus.",["1 dose por ano","Alta dose para 60+"],"gripe"]
 ];
 $('#vgrid').innerHTML=VAC.map(v=>`<button class="flip reveal" aria-pressed="false" aria-label="${v[0]}: toque para ver as doses"><div class="inner">
