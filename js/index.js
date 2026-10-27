@@ -47,7 +47,7 @@ const VAC=[
   ["HPV","De 9 a 45 anos","Protege contra os tipos de HPV que mais causam câncer.",["2 doses até 14 anos","3 doses a partir de 15"],"hpv"],
   ["Meningite B","De 2 meses a 50 anos","Protege contra o meningococo B, que não está no SUS.",["Esquema conforme a idade","Pode ser feita com outras vacinas"],"meningite-b"],
   ["Meningite ACWY","Bebês a adultos","Protege contra quatro tipos de meningococo.",["Esquema conforme a idade","Reforços na infância e adolescência"],"meningite-acwy"],
-  ["Pneumocócica 20","Crianças e 60+","Protege contra pneumonia e outras infecções por pneumococo.",["Dose única para adultos","Crianças: 3 doses e reforço"],"pneumococica-20"],
+  ["Pneumocócica 20","Crianças e 60+","Protege contra pneumonia e outras infecções por pneumococo.",["Dose única para adultos","Bebês: 2 ou 3 doses e reforço"],"pneumococica-20"],
   ["VSR","Adultos, 60+ e gestantes","Previne a doença respiratória pelo vírus sincicial respiratório, inclusive a grave.",["Dose única","Gestantes: Abrysvo, de 24 a 36 semanas"],"vsr"],
   ["Gripe","A partir de 6 meses","A vacina muda todo ano para acompanhar o vírus.",["1 dose por ano","Alta dose para 60+"],"gripe"]
 ];
