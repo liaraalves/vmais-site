@@ -1,9 +1,425 @@
 {
-  "redirects": [
-    { "source": "/vacinas/febre-tifoide.html", "destination": "/vacinas.html", "permanent": true },
-    { "source": "/vacinas/febre-tifoide", "destination": "/vacinas.html", "permanent": true }
-  ],
-  "headers": [
-    { "source": "/(.*)", "headers": [ { "key": "X-Robots-Tag", "value": "noindex, nofollow" } ] }
-  ]
+ "redirects": [
+  {
+   "source": "/sobre-nos/",
+   "destination": "/sobre.html",
+   "permanent": true
+  },
+  {
+   "source": "/servicos/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/parceiros/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/club-vmais/",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/ciclos-vmais-vacinas/",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-ciclos-vmais/",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/pacotesdevacinas/",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/vmais-domiciliar/",
+   "destination": "/domiciliar.html",
+   "permanent": true
+  },
+  {
+   "source": "/vmais-empresarial/",
+   "destination": "/empresarial.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas-disponiveis/",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/todas-as-vacinas/",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-herpes-zoster/",
+   "destination": "/vacinas/herpes-zoster.html",
+   "permanent": true
+  },
+  {
+   "source": "/herpes-campanha/",
+   "destination": "/vacinas/herpes-zoster.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-beyfortus/",
+   "destination": "/vacinas/nirsevimabe.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-pneumo-15/",
+   "destination": "/vacinas/pneumococica-15.html",
+   "permanent": true
+  },
+  {
+   "source": "/pneumo20/",
+   "destination": "/vacinas/pneumococica-20.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-abrysvo/",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/arexvy/",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-aplicacao/",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/lphpv/",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/hpvddp/",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/hpv/",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/meningiteb/",
+   "destination": "/vacinas/meningite-b.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/abrysvo/",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/arexvy/",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/dtpa-refortrix/",
+   "destination": "/vacinas/dtpa.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/febre-tifoide/",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/gripe-tetravalente/",
+   "destination": "/vacinas/gripe.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/hpv-novavalente/",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/rotavirus-pentavalente/",
+   "destination": "/vacinas/rotavirus.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/imunoglobulina-anti-rh/",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/ajovy/",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/prolia/",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/densis/",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/sobre-nos",
+   "destination": "/sobre.html",
+   "permanent": true
+  },
+  {
+   "source": "/servicos",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/parceiros",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/club-vmais",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/ciclos-vmais-vacinas",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-ciclos-vmais",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/pacotesdevacinas",
+   "destination": "/ciclos.html",
+   "permanent": true
+  },
+  {
+   "source": "/vmais-domiciliar",
+   "destination": "/domiciliar.html",
+   "permanent": true
+  },
+  {
+   "source": "/vmais-empresarial",
+   "destination": "/empresarial.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas-disponiveis",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/todas-as-vacinas",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-herpes-zoster",
+   "destination": "/vacinas/herpes-zoster.html",
+   "permanent": true
+  },
+  {
+   "source": "/herpes-campanha",
+   "destination": "/vacinas/herpes-zoster.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-beyfortus",
+   "destination": "/vacinas/nirsevimabe.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-pneumo-15",
+   "destination": "/vacinas/pneumococica-15.html",
+   "permanent": true
+  },
+  {
+   "source": "/pneumo20",
+   "destination": "/vacinas/pneumococica-20.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-abrysvo",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/arexvy",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/lp-aplicacao",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/lphpv",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/hpvddp",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/hpv",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/meningiteb",
+   "destination": "/vacinas/meningite-b.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/abrysvo",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/arexvy",
+   "destination": "/vacinas/vsr.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/dtpa-refortrix",
+   "destination": "/vacinas/dtpa.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/febre-tifoide",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/gripe-tetravalente",
+   "destination": "/vacinas/gripe.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/hpv-novavalente",
+   "destination": "/vacinas/hpv.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/rotavirus-pentavalente",
+   "destination": "/vacinas/rotavirus.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/imunoglobulina-anti-rh",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/ajovy",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/prolia",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/densis",
+   "destination": "/ambulatorio.html",
+   "permanent": true
+  },
+  {
+   "source": "/vacinas/febre-tifoide.html",
+   "destination": "/vacinas.html",
+   "permanent": true
+  },
+  {
+   "source": "/blog/",
+   "destination": "/blog.html",
+   "permanent": false
+  },
+  {
+   "source": "/vacinas/",
+   "destination": "/vacinas.html",
+   "permanent": false
+  },
+  {
+   "source": "/blog/:slug/",
+   "destination": "/blog-:slug.html",
+   "permanent": false
+  },
+  {
+   "source": "/vacinas/:slug/",
+   "destination": "/vacinas/:slug.html",
+   "permanent": false
+  },
+  {
+   "source": "/ambulatorio/",
+   "destination": "/ambulatorio.html",
+   "permanent": false
+  },
+  {
+   "source": "/calendarios/",
+   "destination": "/calendarios.html",
+   "permanent": false
+  },
+  {
+   "source": "/ciclos/",
+   "destination": "/ciclos.html",
+   "permanent": false
+  },
+  {
+   "source": "/condominio/",
+   "destination": "/condominio.html",
+   "permanent": false
+  },
+  {
+   "source": "/domiciliar/",
+   "destination": "/domiciliar.html",
+   "permanent": false
+  },
+  {
+   "source": "/empresarial/",
+   "destination": "/empresarial.html",
+   "permanent": false
+  },
+  {
+   "source": "/politica-de-cookies/",
+   "destination": "/politica-de-cookies.html",
+   "permanent": false
+  },
+  {
+   "source": "/politica-de-privacidade/",
+   "destination": "/politica-de-privacidade.html",
+   "permanent": false
+  },
+  {
+   "source": "/sobre/",
+   "destination": "/sobre.html",
+   "permanent": false
+  }
+ ],
+ "headers": [
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Robots-Tag",
+     "value": "noindex, nofollow"
+    }
+   ]
+  }
+ ]
 }
